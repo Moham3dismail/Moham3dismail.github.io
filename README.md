@@ -208,7 +208,7 @@ FROM
 ```
 
 # Testing 
-## Data Quality tests 
+## Data Quality Test
 Here are the data quality tests that is being conducted to the data:
 ### Row count check
 #### SQL query 
