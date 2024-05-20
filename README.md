@@ -24,7 +24,7 @@
   - [Findings](#findings)
   - [Validation](#validation)
   - [Discovery](#discovery)
-- [Recommendations](#recommendation)
+- [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
   - [Potential Courses of Actions](#potential-courses-of-actions)
 - [Conclusion](#conclusion)
@@ -710,7 +710,7 @@ We discovered that
 3. If we go with a product placement campaign with DanTDM, this could generate the client approximately $484,000 per video. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $404,000.
 4. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering)
    
-## Potential Courses of action
+## Potential Courses of actions
 * What course of action should we take and why?
 
 Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel.
