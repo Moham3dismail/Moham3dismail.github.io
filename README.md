@@ -10,7 +10,7 @@
   - [Mockup](#mockup)
   - [Tools](#tools)
 - [Development](#development)
-  - [Pseudocode][#pseudocode)
+  - [Pseudocode](#pseudocode)
   - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
   - [Transform the Data](#transform-the-data)
@@ -27,7 +27,7 @@
 - [Recommendations](#recommendation)
   - [Potential ROI](#potential-roi)
   - [Potential Courses of Actions](#potential-courses-of-actions)
--[Conclusion](#conclusion)
+- [Conclusion](#conclusion)
   
 
 
