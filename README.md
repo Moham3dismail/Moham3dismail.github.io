@@ -166,7 +166,7 @@ And here is a tabular representation of the expected schema for the clean data:
 2. Extract Youtube channel names from the first column
 3. Rename columns using aliases
 
-# Transform the Data
+## Transform the Data
 
 ```sql
 /*
@@ -184,3 +184,42 @@ SELECT
 FROM
     top_uk_youtubers_2024
 ```
+## Create the SQL view
+```sql
+/*
+# 1. Create a view to store the transformed data
+# 2. Cast the extracted channel name as VARCHAR(100)
+# 3. Select the required columns from the top_uk_youtubers_2024 SQL table 
+*/
+
+-- 1.
+CREATE VIEW view_uk_youtubers_2024 AS
+
+-- 2.
+SELECT
+    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, -- 2. 
+    total_subscribers,
+    total_views,
+    total_videos
+
+-- 3.
+FROM
+    top_uk_youtubers_2024
+```
+
+# Testing 
+## Data Quality tests 
+Here are the data quality tests that is being conducted to the data:
+### Row count check
+
+```sql
+/*
+# Count the total number of records (or rows) are in the SQL view
+*/
+
+SELECT
+    COUNT(*) AS no_of_rows
+FROM
+    view_uk_youtubers_2024;
+```
+![row_count](assets/images/2.1.row_count.png)
