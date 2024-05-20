@@ -16,7 +16,7 @@
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
 - [Testing](#testing)
-  - [Data Quality Test](#data_quality-test)
+  - [Data Quality Test](#data-quality-test)
 - [Visualization](#visualization)
   - [Results](#results)
   - [DAX Measures](#dax-measures)
