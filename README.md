@@ -166,7 +166,7 @@ And here is a tabular representation of the expected schema for the clean data:
 2. Extract Youtube channel names from the first column
 3. Rename columns using aliases
 
----sql
+```sql
 /*
 # 1. Select the required columns
 # 2. Extract the channel name from the 'NOMBRE' column
@@ -181,4 +181,4 @@ SELECT
 
 FROM
     top_uk_youtubers_2024
----
+```
