@@ -90,6 +90,7 @@ To understand what it should contain, we need to figure out what questions we ne
 4. Which 3 channels have the highest average views per video?
 5. Which 3 channels have the highest views per subscriber ratio?
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
 ## Dashboard mockup
@@ -100,4 +101,5 @@ Some of the data visuals that may be appropriate in answering our questions incl
 2. Treemap
 3. Scorecards
 4. Horizontal bar chart
+
 ![Dashboard Mockup](assets/images/dashboard_mockup.png)
