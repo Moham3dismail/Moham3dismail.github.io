@@ -211,7 +211,7 @@ FROM
 ## Data Quality tests 
 Here are the data quality tests that is being conducted to the data:
 ### Row count check
-
+#### SQL Query 
 ```sql
 /*
 # Count the total number of records (or rows) are in the SQL view
@@ -222,4 +222,5 @@ SELECT
 FROM
     view_uk_youtubers_2024;
 ```
+#### Output
 ![row_count](assets/images/2.1.row_count.png)
