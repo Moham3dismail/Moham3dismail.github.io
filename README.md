@@ -7,7 +7,7 @@
 - [Data Source](#data-source)
 - [Stages](#stages)
 - [Design](#design)
-  - [Mockup](#mockup)
+  - [Dashboard Mockup](#dashboard-mockup)
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
