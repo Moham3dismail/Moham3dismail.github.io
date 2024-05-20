@@ -32,3 +32,18 @@ As the Head of Marketing, I want to use a dashboard that analyses YouTube channe
 This dashboard should allow me to identify the top performing channels based on metrics like subscriber base and average views.
 
 With this information, I can make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
+
+# Data source
+What data is needed to achieve our objective?
+
+We need data on the top UK YouTubers in 2024 that includes their
+
+* channel names
+
+* total subscribers
+
+* total views
+
+* total videos uploaded
+
+Where is the data coming from? The data is sourced from Kaggle (an Excel extract), see here to find it.
